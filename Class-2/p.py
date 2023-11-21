@@ -1,0 +1,6 @@
+#print("We need some of your confidential data")
+piu=input("What's your name\n")
+mob=input("Your mobile no...\n")
+mobi=int(mob)
+print(type(mobi))
+print(piu+" mobile no is "+mob)
